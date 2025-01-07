@@ -3,7 +3,7 @@
 This folder contains multiple projects. Below is an overview of each project:
 
 ## .git
-No README.md file found for this project.
+
 
 ## 1_OCR_and_Text_to_Speech_Application
 # OCR-and-Text-to-Speech-Application
@@ -53,6 +53,9 @@ Acknowledgments
 MediaPipe for the robust pose and hand detection solutions.
 OpenCV for video processing.
 Matplotlib for 2D plotting.
+
+### Videos:
+- [Real_Time_Body_and_Hand_Motion_Capture.mkv](./2_PoseTrack_Real_Time_Body_and_Hand_Motion_Capture\Real_Time_Body_and_Hand_Motion_Capture.mkv)
 
 
 ## 4_Background_Removal_API
@@ -341,6 +344,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 A live demo will be added soon! Stay tuned. 😊
 
 ---
+
+### Videos:
+- [expression_Demo.mkv](./7_Real_Time_Facial_Expression_Detection_using_Mediapipe_and_OpenCV\expression_Demo.mkv)
 
 
 ## 8_Driver_Drowsiness_and_Distraction_Detection_System
